@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ousama "Sam" Batais.
 - 👀 I’m interested in Traveling, Technology, and History.
-- 🌱 I’m currently learning React and trying to do some projects in Python.
+- 🌱 I’m currently learning about Data Science & Machine Learning and trying to do some projects in Python.
 - 💞️ I’m looking to collaborate on Creative Projects, Volunteer Work, and Tech and Software Development.
 - 📫 You can reach me through my email Ousama.Batais@gmail.com
 <!---

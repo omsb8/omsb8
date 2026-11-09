@@ -21,6 +21,7 @@ My repositories also preserve earlier coursework and software projects, includin
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ousama-batais/)
+- [Portfolio](https://omsb8.github.io/ousama-portfolio.github.io/)
 - [Portfolio source](https://github.com/omsb8/ousama-portfolio.github.io)
 - Email: Ousama.Batais@gmail.com
 
